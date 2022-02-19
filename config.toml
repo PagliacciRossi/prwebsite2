@@ -1,0 +1,23 @@
+baseURL = "http://pagliaccirossi.org"
+languageCode = "en-us"
+title = "pagliacci rossi"
+theme = "twenty-twenty-hugo"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 10
+
+[[menu.main]]
+identifier = "articles"
+name = "Articles"
+url = "/articles"
+weight = 20
+
+[[menu.main]]
+identifier = "videos"
+name = "Videos"
+url = "https://www.youtube.com/channel/UCkMXERzrytH4riG9y6ZGNuQ"
+weight = 30
